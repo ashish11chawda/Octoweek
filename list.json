@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Ashish Chawda",
+        "branch": "CSE",
+        "semester": "8th",
+        "gender": "male"
+    }
+    ,{
+        "name": "Kartikey Rawat",
+        "branch": "CSE",
+        "semester": "8th",
+        "gender": "male"
+    }
+    ,{
+        "name": "Sonam Gupta",
+        "branch": "CSE",
+        "semester": "6th",
+        "gender": "female"
+    }
+]
