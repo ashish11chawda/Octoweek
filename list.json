@@ -17,4 +17,10 @@
         "semester": "6th",
         "gender": "female"
     }
+    ,{
+        "name": "Someone",
+        "branch": "CSE",
+        "semester": "6th",
+        "gender": "female"
+    }
 ]
