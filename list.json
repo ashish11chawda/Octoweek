@@ -17,4 +17,16 @@
         "semester": "6th",
         "gender": "female"
     }
+    ,{
+        "name": "Vivek rathia",
+        "branch": "CSE",
+        "semester": "4th",
+        "gender": "male"
+    }
+    ,{
+        "name": "Vipul nayak",
+        "branch": "CSE",
+        "semester": "4th",
+        "gender": "male"
+    }
 ]
