@@ -1,7 +1,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap");
 
 #heading {
-  text-align: center;
+color:red;
+  
+text-align: center;
   font-family: "Montserrat", monospace;
 }
 
