@@ -14,4 +14,4 @@ documentation:
 
 # Add 'frontend` label to any change to *.js files as long as the `main.js` hasn't changed
 frontend:
-- any: ["*.js", "*.css", "*.html"]
+- any: ["script.js", "style.css", "index.html"]
