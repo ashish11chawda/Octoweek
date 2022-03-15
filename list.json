@@ -16,5 +16,11 @@
         "branch": "CSE",
         "semester": "6th",
         "gender": "female"
+    },
+     {
+	"name": "Akash Sahu",
+	"branch": "Mechanical",
+	"semester": "6th",
+	"gender": "male"
     }
 ]
