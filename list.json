@@ -17,4 +17,16 @@
         "semester": "6th",
         "gender": "female"
     }
+    ,{
+        "name": "Akshat Pandey",
+        "branch": "CSE",
+        "semester": "4th",
+        "gender": "male"
+    }
+    ,{
+        "name": "Sanskar Dwivedi",
+        "branch": "CSE",
+        "semester": "4th",
+        "gender": "male"
+    }
 ]
