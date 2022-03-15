@@ -17,4 +17,11 @@
         "semester": "6th",
         "gender": "female"
     }
+    ,{
+        "name": "Shubhankar Tiwary",
+        "branch": "CSE",
+        "semester": "4th",
+        "gender": "male"
+    }
+    
 ]
