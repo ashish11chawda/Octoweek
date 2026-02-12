@@ -1,9 +1,10 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap");
 
-#heading {
-  color: red;
+.heading {
   text-align: center;
-  font-family: "Montserrat", monospace;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+  font-size: 3rem ;
   color:rgb(228, 54, 54);
 }
 
